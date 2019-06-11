@@ -9,4 +9,4 @@ ever dividable by both 3 and 5, should show "fizzbuzz".
 Advanced requirement:
 Base on the above requirements,
 if number contains “3” should show "fizz"
-if number contains "5" should show "buzz"
+if number contains "5" should show "buzz".
