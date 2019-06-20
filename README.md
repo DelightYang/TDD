@@ -1,6 +1,6 @@
 # TDD Practice
 
-* Requirement *
+*Requirement*
 > Output from 1 to 100.
 1. ever dividable by 3, should show "fizz".
 2. ever dividable by 5, should show "buzz".
